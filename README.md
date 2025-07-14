@@ -1,6 +1,4 @@
-# Portofolio
-
-# 📊 Portofolio Data & Otomatisasi - Saida
+# 📊 Portofolio
 
 Selamat datang di portofolio saya! Saya tertarik dalam bidang data analitik, visualisasi, dan otomatisasi tugas dengan Excel, SQL, dan Python.
 
